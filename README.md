@@ -6,7 +6,7 @@
   Made with ❤️ by <a href="https://github.com/anggaxd">Angga Kurniawan</a>
 </p>
 <p align="center">
- <img src="https://github.com/anggaxd/c-all/blob/images/20200731_152622.png" width="640" title="Menu" alt="Menu">
+ <img src="https://raw.githubusercontent.com/anggaxd/anggaxd/master/20200818_154958.png" width="640" title="Menu" alt="Menu">
 </p>
 
 ## Features
