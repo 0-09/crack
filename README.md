@@ -32,12 +32,16 @@ $ git clone https://github.com/anggaxd/crack
 $ cd crack
 $ python2 crack.py
 ```
+## License 
+* angga18febq5
+* anggaxd651ggwp
+
 ## Informasi For Updates Script
 * Done Released Script
 * Done Updated List Password
 * Done Fix Errors Installed
 * Done Updateds News Template Menu
 * Done Updateds News Country
-
+* License
 Notice Me : Please Don't Change Name Author
 Thanks For Using My Script
