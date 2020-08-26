@@ -8,10 +8,12 @@
 <p align="center">
  <img src="https://raw.githubusercontent.com/anggaxd/anggaxd/master/20200818_154958.png" width="640" title="Menu" alt="Menu">
 </p>
+
 ![](https://img.shields.io/badge/Language-2-blue) 
 ![](https://img.shields.io/badge/Python-2.7-green) 
 ![](https://img.shields.io/badge/Size-140KB-orange) 
 ![](https://img.shields.io/badge/Relase-20-08-20-brightgreen)
+
 ## Features
 * Cracking Bangladesh
 * Cracking India
