@@ -44,6 +44,7 @@ $ python2 crack.py
 * Done Fix Errors Installed
 * Done Updateds News Template Menu
 * Done Updateds News Country
+* Done Updateds Code Network Indonesia
 * License
 Notice Me : Please Don't Change Name Author
 Thanks For Using My Script
