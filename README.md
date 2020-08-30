@@ -35,8 +35,7 @@ $ cd crack
 $ python2 crack.py
 ```
 ## License 
-* angga18febq5
-* anggaxd651ggwp
+* ANGGAXD
 
 ## Informasi For Updates Script
 * Done Released Script
